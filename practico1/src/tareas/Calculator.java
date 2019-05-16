@@ -1,5 +1,5 @@
 package tareas;
-
+/*cambios*/
 public class Calculator implements Runnable {
 	private int number;
 	public Calculator(int number){
